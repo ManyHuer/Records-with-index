@@ -1,0 +1,5 @@
+22PIPUL   |1
+42PIBOC   |3
+50BCER    |2
+53PPIZ    |4
+75PHAW    |5
